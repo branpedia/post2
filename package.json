@@ -1,0 +1,20 @@
+{
+  "name": "screenshot-website",
+  "version": "1.0.0",
+  "description": "Modern website screenshot generator with flux animations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "serve public"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "vercel": "^28.10.1"
+  },
+  "keywords": ["screenshot", "website", "api", "vercel"],
+  "author": "Your Name",
+  "license": "MIT"
+}
